@@ -1,14 +1,19 @@
 # KPI_Dashboard
-Belows are some sample dashboards created in a process team to monitor Yield, Defect Rates and etc.
 
-##Example1: Dialy Defect Rate dashboard, providing which manufacturing line is facing high CEF defect rates.
+This repository showcases sample dashboards developed by the process team to monitor key manufacturing KPIs such as Yield, Defect Rates, and CTQ (Critical to Quality) metrics.
+
+## Example 1: Daily Defect Rate Dashboard  
+Highlights manufacturing lines with high CEF-related defect rates.
 ![Example 1](visuals/CEF_Defect_Rate_Monitoring.png)
 
-##Example2: Provide overall Yield Tracking Dashboard for decision-makers to monitor overal yield of manufacturing.
+## Example 2: Yield Tracking Dashboard  
+Provides a high-level overview of overall yield performance for decision-makers.
 ![Example 2](visuals/Yield_Tracking.png)
 
-##Example 3: Provide CTQ realted Defect Rates, highlighting which type of defects are dominating dailiy.
+## Example 3: CTQ Defect Monitoring  
+Displays CTQ-related defect rates, emphasizing the dominant defect types observed daily.
 ![Example 3](visuals/CTQ_Tracking.png)
 
-##Example 4: Overall Yield tracking KPI performance of cell apperance related yield
+## Example 4: Appearance-Related Yield KPI Dashboard  
+Tracks the yield performance related to cell appearance metrics.
 ![Example 4](visuals/Yield_example2.png)
